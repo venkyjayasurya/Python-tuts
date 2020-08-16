@@ -1,0 +1,13 @@
+a,b=10,5
+a+=b
+print(a)
+a-=b
+print(a)
+a*=2
+print(a)
+a/=b
+print(a)
+b**=2
+print(b)
+b//=3
+print(b)
